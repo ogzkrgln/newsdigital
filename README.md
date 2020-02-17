@@ -1,5 +1,6 @@
 # README #
 Kullanılan Teknolojiler: React Native, React Navigation 5.x, Redux, style component
+
 Aşağıdaki adımları takip ederek projeyi başlatabilirsiniz.
 
 ### Projeyi klonlama ###
